@@ -1,2 +1,0 @@
-# ReactTestRepository
-Created with CodeSandbox
